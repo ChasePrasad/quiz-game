@@ -1,0 +1,70 @@
+Question 1: What are the two main units that a CPU internally consists of?
+A. Input and Output Unit
+B. Logic Unit and Graphics Processing Unit (GPU)
+C. Control Unit and Arithmetic Logic Unit (ALU)
+D. Main Memory Unit and Second Memory Unit
+C
+1
+Question 2: Which of the following is an illegal variable name?
+A. j
+B. the1stOfJanuary
+C. january1
+D. 1january
+D
+2
+Question 3: Fill in the blank: In order to make a variable a named constant, the "_____" keyword must be used.
+A. final
+B. initial
+C. private
+D. public
+A
+3
+Question 4: Fill in the blank: When an if statement is nested in the else clause of another statement, the only time the inner if statement is executed is when the boolean expression of _______________.
+A. the outer if statement is true
+B. the outer if statement is false
+C. both if statements are false
+D. both if statements are true
+B
+4
+Question 5: Which operator takes an operand and reverses its truth or falsehood?
+A. ==
+B. ||
+C. &&
+D. !
+D
+5
+Question 6: What type of loop is specifically designed to initialize, test, and update a counter variable?
+A. while loop
+B. do-while loop
+C. for loop
+D. froot loop
+C
+6
+Question 7: Which statement causes a loop to stop its current iteration and begin the next one?
+A. break
+B. continue
+C. do
+D. switch
+B
+7
+Question 8: Fill in the blank: A particular method's local variables exist in memory _______________.
+A. only while all methods with variables of the same name are executing
+B. the entire time that the program is executing
+C. only while the method is executing
+D. only while the method is not executing
+C
+8
+Question 9: Which symbols are used to enclose a two-dimensional array's row's initialization list?
+A. braces
+B. brackets
+C. parentheses
+D. quotation marks
+A
+9
+Question 10: What are valid subscript values for a four-element array of doubles?
+A. 1, 2, 3, 4
+B. -1, 0, 1, 2
+C. 0.0, 0.1, 0.2, 0.3
+D. 0, 1, 2, 3
+D
+10
